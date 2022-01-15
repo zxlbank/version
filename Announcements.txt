@@ -1,9 +1,12 @@
 Welcome to Chichiya Automation Auto Cook 
 
-1. The latest version is v3.0.1
-2. Manual Control is not working yet.
+1. The latest version is v3.0.2
 Whats new:
  -Bug fixed: Too much Bland Mush
+ -Bug fixed: Auto Flour Pause forever
+ -Bug fixed: Auto Add Flour Manual Control
+
+If you find any more bugs, please let me know.
 
 To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
 
