@@ -1,6 +1,8 @@
-Welcome to Chichiya Automation Auto Cook v3.0.0
+Welcome to Chichiya Automation Auto Cook 
 
-Hello, This is announcement
+The latest version is v3.0.1
+Whats new:
+ -Bug fixed: Too much Bland Mush
 
 
 Chichiya egg shop 200/1 at the following worlds:
