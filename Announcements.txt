@@ -1,13 +1,19 @@
 Welcome to Chichiya Automation Auto Cook 
 
-The latest version is v3.0.3
+
+The latest version is v3.0.4
 Whats new:
- -Bug fixed: presses wrench when punching the ovens.
+ -Bug fixed:Turned Off Auto Add Flour Hotkeys Interval
 
 
 
 If you find any more bugs, please let me know.
 To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
+
+version v3.0.4
+Whats new:
+ -Bug fixed: presses wrench when punching the ovens.
+
 
 Version 3.0.2
 Whats new:
