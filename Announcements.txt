@@ -1,14 +1,18 @@
 Welcome to Chichiya Automation Auto Cook 
 
 
-The latest version is v3.0.4
+The latest version is v3.0.5
 Whats new:
- -Bug fixed:Turned Off Auto Add Flour Hotkeys Interval
-
-
+ -Bug fixed: Presses f1 and f2 outside Growtopia.
 
 If you find any more bugs, please let me know.
 To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
+
+
+version v3.0.4
+Whats new:
+ -Bug fixed:Turned Off Auto Add Flour Hotkeys Interval
+
 
 version v3.0.3
 Whats new:
