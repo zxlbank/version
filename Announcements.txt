@@ -10,7 +10,7 @@ Whats new:
 If you find any more bugs, please let me know.
 To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
 
-version v3.0.4
+version v3.0.3
 Whats new:
  -Bug fixed: presses wrench when punching the ovens.
 
