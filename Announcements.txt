@@ -6,8 +6,9 @@ THERE IS A NEW VERSION FOR AUTO ADD FLOUR. IF YOU ARE USING V3.0.4 AND HIGHER, D
 
 The latest version is v3.0.6
 Whats new:
- - 80 oven support
-
+ - 80 oven support.
+ - Force close will also stop auto flour.
+ 
 If you find any more bugs, please let me know.
 To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
 
