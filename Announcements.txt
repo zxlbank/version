@@ -1,16 +1,20 @@
 Welcome to Chichiya Automation Auto Cook 
 
 
-
 THERE IS A NEW VERSION FOR AUTO ADD FLOUR. IF YOU ARE USING V3.0.4 AND HIGHER, DELETE AUTO ADD FLOUR.EXE AND RUN AUTO COOK AGAIN TO INSTALL A THE LATEST AUTO ADD FLOUR.
 
 
-The latest version is v3.0.5
+The latest version is v3.0.6
 Whats new:
- -Bug fixed: Presses f1 and f2 outside Growtopia.
+ - 80 oven support
 
 If you find any more bugs, please let me know.
 To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
+
+
+version v3.0.5
+Whats new:
+ -Bug fixed: Presses f1 and f2 outside Growtopia.
 
 
 version v3.0.4
