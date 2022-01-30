@@ -1,17 +1,23 @@
 Welcome to Chichiya Automation Auto Cook 
+Chichiya egg shop 200/1 at EggOD
 
 
 THERE IS A NEW VERSION FOR AUTO ADD FLOUR. IF YOU ARE USING V3.0.4 AND HIGHER, DELETE AUTO ADD FLOUR.EXE AND RUN AUTO COOK AGAIN TO INSTALL A THE LATEST AUTO ADD FLOUR.
 
 
-The latest version is v3.0.6
+The latest version is v3.1.0
 Whats new:
- - 80 oven support.
- - Force close will also stop auto flour.
+ - You can no longer use the old version.
+ - Added additional security.
  
 If you find any more bugs, please let me know.
 To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
 
+
+version v3.0.6
+Whats new:
+ - 80 oven support.
+ - Force close will also stop auto flour.
 
 version v3.0.5
 Whats new:
@@ -35,14 +41,4 @@ Whats new:
  -Bug fixed: Auto Add Flour Manual Control
 
 
-Chichiya egg shop 200/1 at the following worlds:
-ChichiyaEgg
-ChichiyaEgg2
-ChichiyaEgg3
-ChichiyaEgg4
-ChichiyaEgg5
-ChichiyaEggs
-ChichiyaEggs2
-ChichiyaEggs4
-ChichiyaEggs5
-ChichiyaEggs6
+
