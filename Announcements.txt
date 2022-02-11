@@ -1,18 +1,19 @@
 Welcome to Chichiya Automation Auto Cook 
-Chichiya egg shop 200/1 at EggOD
+
+NEW UPDATE ALERT! To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
+
+The latest version is v3.1.1
+Whats new:
+ - Fix bug clicking valentine event after cooking. 
+
+If you find any more bugs, please let me know.
 
 
-THERE IS A NEW VERSION FOR AUTO ADD FLOUR. IF YOU ARE USING V3.0.4 AND HIGHER, DELETE AUTO ADD FLOUR.EXE AND RUN AUTO COOK AGAIN TO INSTALL A THE LATEST AUTO ADD FLOUR.
-
-
-The latest version is v3.1.0
+version v3.1.0
 Whats new:
  - You can no longer use the old version.
  - Added additional security.
  
-If you find any more bugs, please let me know.
-To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
-
 
 version v3.0.6
 Whats new:
