@@ -2,12 +2,15 @@ Welcome to Chichiya Automation Auto Cook
 
 NEW UPDATE ALERT! To download the latest version, message me in facebook at Keith Randell Alvarez Paras or in Discord Chichiya#2185
 
-The latest version is v3.1.1
+The latest version is v3.1.2
 Whats new:
- - Fix bug clicking valentine event after cooking. 
+ - Fix bug doesnt punch ovens. 
 
 If you find any more bugs, please let me know.
 
+version v3.1.1
+Whats new:
+ - Fix bug clicking valentine event after cooking. 
 
 version v3.1.0
 Whats new:
