@@ -1,7 +1,25 @@
 Welcome to Chichiya Automation Auto Cook 
 
+The latest version is 4.01
+Whats new:
+- v2 is now officially called Standard Auto Cook and v3 is now officially called Premium Auto Cook.
+- Standard and Premium Auto Cook is now together in 1 app.
+- Auto Chemsynth, Auto Clicker, Auto Chat (Spammer), Auto Harvest Provider, Easy Link (Helpful for linking provider farm) will also be added in 1 app (Free).
+- You can now send a report using the app instead of sending us a report message. 
+- GUI Dark/Light Mode.
+- Profit Calculator.
+- You can now get your PC UUID in About tab.
 
 If you find any more bugs, please let me know.
+
+version 3.4.0
+Whats New:
+- Bug fixed: Auto Flour goes straight to Room 2 (You need to delete the old auto flour.exe)
+- Bug fixed: Opens up unlimited Browser
+- Added Logs when cooking
+- Supports 68 - 94 ovens
+- Redesigned Gemonade Timer to Minutes:Seconds
+- Enabled Test Button
 
 
 version v3.3.0
